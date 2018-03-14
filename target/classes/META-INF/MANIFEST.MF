@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: vanes
+Build-Jdk: 9.0.4
+Implementation-Title: saraiva
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: br.com
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/saraiva
+Created-By: Maven Integration for Eclipse
+
